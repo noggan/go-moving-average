@@ -7,11 +7,11 @@ TODO...
 # Roadmap
 
 ## Version 1
-[ ] Docs
-[ ] Simple moving average
-[ ] Cumulative moving average
-[ ] Weighted moving average
-[ ] Tests
+- [ ] Docs
+- [ ] Simple moving average
+- [ ] Cumulative moving average
+- [ ] Weighted moving average
+- [ ] Tests
 
 ## Version 2
-[ ] Optimizing calculations
+- [ ] Optimizing calculations
